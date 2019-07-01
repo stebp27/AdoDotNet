@@ -1,0 +1,11 @@
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\bin\Debug\netcoreapp2.2\AdoExamPattern.deps.json
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\bin\Debug\netcoreapp2.2\AdoExamPattern.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\bin\Debug\netcoreapp2.2\AdoExamPattern.runtimeconfig.dev.json
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\bin\Debug\netcoreapp2.2\AdoExamPattern.dll
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\bin\Debug\netcoreapp2.2\AdoExamPattern.pdb
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.dll
+C:\Users\stefa\OneDrive\Desktop\preparazione esame\AdoExamPattern\AdoExamPattern\obj\Debug\netcoreapp2.2\AdoExamPattern.pdb
